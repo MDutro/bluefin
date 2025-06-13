@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Zen Session
+Comment=A custom GNOME Wayland session without extensions
+Exec=/usr/bin/gnome-session --session=gnome
+Type=Application
+DesktopNames=GNOME
+X-GNOME-SessionRegistered=true
